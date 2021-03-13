@@ -1,0 +1,16 @@
+footer{
+    height: 7%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: grey;
+    div{
+        p{
+            color: white;
+            a{
+                color: white;
+                text-decoration: none;
+            }
+        }
+    }
+}

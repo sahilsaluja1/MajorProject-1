@@ -1,0 +1,11 @@
+footer {
+  height: 7%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: grey; }
+  footer div p {
+    color: white; }
+    footer div p a {
+      color: white;
+      text-decoration: none; }
